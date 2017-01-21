@@ -8,7 +8,7 @@ require "jekyll"
 GITHUB_REPONAME    = "abraincode/abraincode.github.io"
 GITHUB_REPO_BRANCH = "master"
 
-SOURCE = "source/"
+SOURCE = "/"
 DEST   = "_site"
 CONFIG = {
   'layouts' => File.join(SOURCE, "_layouts"),
