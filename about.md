@@ -5,8 +5,8 @@ title: About
 
 Hai!.
 
-Perkenalkan, kami adalah aBraincode, Komunitas IT dari STT Terpadu Nurul Fikri. Kami fokus dalam pengembangan (__ngorek__) Web dan Mobile.
+Introduce, we are aBraincode. Our speciality is Web and Android Developer and also UI/UX Design. every week, our routine is to develop the potential (familiar called: ___ngorek___).
 
-**Just write thing that matters..**
+**Interesting? <a href="#">join with us</a>!** `only for Nurul Fikri student();`
 
 Enjoy!
