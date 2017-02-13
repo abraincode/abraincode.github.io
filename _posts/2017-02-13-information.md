@@ -17,8 +17,8 @@ Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda
 
 Setelah berdiskusi dengan kepanitiaan Inti dari aBraincode, aBraincode akan dipecah menjadi 2 bagian, yaitu :
 
-- [x] Android Developer
-- [x] Web Developer
+- Android Developer
+- Web Developer
 
 Android Developer akan fokus dalam pengembangan aplikasi Android, baik secara native, maupun hybrid.
 
@@ -32,18 +32,18 @@ Web Developer akan fokus dalam pengembangan aplikasi web, baik secara native mau
 
 Upaya yang diharapkan dari rekonstruksi agar **aBraincode** secara terstruktur dan efisien dalam menjalankan kegiatan, baik kegiatan primer maupun sekunder. Untuk itu, rekonstruksi ini akan dilakukan dibeberapa aspek, antara lain:
 
-- [] Anggota **aBraincode**
-- [] Silabus Kegiatan
-- [] Program Kegiatan (Internal, dan Eksternal)
-- [] Jadwal Rutinitas
+- Anggota **aBraincode**
+- Silabus Kegiatan
+- Program Kegiatan (Internal, dan Eksternal)
+- Jadwal Rutinitas
 
 ##### Anggota **aBraincode**
 
 Silahkan lakukan registrasi ulang untuk IT-Club **aBraincode**
 
-Android : (Daftar Android)[http://goo.gl/456]
+Android : !(Daftar Android)[http://goo.gl/456]
 
-Web : (Daftar Web)[http://goo.gl/123]
+Web : !(Daftar Web)[http://goo.gl/123]
 
 ##### Silabus Kegiatan
 
@@ -58,3 +58,7 @@ Web : (Daftar Web)[http://goo.gl/123]
 Jadwal Rutinitas pertemuan akan di ganti yang awalnya pada Hari Sabtu, akan diganti sesuai dengan jadwal anggota **aBraincode**. Akan disesuaikan setelah komparasi antara jadwal semester 2, semester 4, dan semester 6.
 
 <div class="divider"></div>
+
+Sebagai penutup, mari kita **kibarkan** bendera Indonesia dengan semangat Pemuda-Pemudi Indonesia melalui sektor Pendidikan dan Teknologi. Merdeka **Indonesia**, Merdeka dengan **Code**.
+
+Wassalam,
