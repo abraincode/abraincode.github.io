@@ -41,9 +41,9 @@ Upaya yang diharapkan dari rekonstruksi agar **aBraincode** secara terstruktur d
 
 Silahkan lakukan registrasi ulang untuk IT-Club **aBraincode**
 
-Android : !(Daftar Android)[http://goo.gl/456]
+Android : [Daftar Android](http://goo.gl/456)
 
-Web : !(Daftar Web)[http://goo.gl/123]
+Web : [Daftar Web](http://goo.gl/123)
 
 ##### Silabus Kegiatan
 
@@ -59,6 +59,6 @@ Jadwal Rutinitas pertemuan akan di ganti yang awalnya pada Hari Sabtu, akan diga
 
 <div class="divider"></div>
 
-Sebagai penutup, mari kita **kibarkan** bendera Indonesia dengan semangat Pemuda-Pemudi Indonesia melalui sektor Pendidikan dan Teknologi. Merdeka **Indonesia**, Merdeka dengan **Code**.
+Sebagai penutup, mari kita **kibarkan** bendera Indonesia dengan semangat kita (Pemuda-Pemudi Indonesia) melalui sektor Pendidikan dan Teknologi. Merdeka **Indonesia**, Merdeka dengan **Code**.
 
 Wassalam,
