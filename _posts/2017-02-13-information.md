@@ -39,11 +39,11 @@ Upaya yang diharapkan dari rekonstruksi agar **aBraincode** secara terstruktur d
 
 ##### Anggota **aBraincode**
 
-Silahkan lakukan registrasi ulang untuk IT-Club **aBraincode**
+Silahkan lakukan registrasi ulang untuk keanggotaan **aBraincode**
 
-Android : [Daftar Android](http://goo.gl/456)
+Android & Web : [Daftar](https://goo.gl/forms/LmNwYrvf0t2zCfgv1)
 
-Web : [Daftar Web](http://goo.gl/123)
+(Bisa pilih salah satu, atau keduanya).
 
 ##### Silabus Kegiatan
 
