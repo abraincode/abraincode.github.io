@@ -9,7 +9,7 @@ Assalamualaikum Wr.Wb.
 
 ## Pembuka
 
-Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda Indonesia terkhusus untuk kampus kita tercinta, yaitu STT Terpadu Nurul Fikri, pada post kali ini saya selaku Ketua **aBraincode** akan memaparkan sesuatu, yaitu akan dilakukan rekonstruksi manajmene secara efisien dan adapun akan dibuka IT-Club baru dibawah naungan aBraincode untuk keahlian khusus.
+Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda Indonesia terkhusus untuk kampus kita tercinta, yaitu STT Terpadu Nurul Fikri, pada post kali ini saya selaku Ketua **aBraincode** akan memaparkan sesuatu, yaitu akan dilakukan rekonstruksi manajemen secara efisien dan adapun akan dibuka IT-Club baru dibawah naungan aBraincode untuk keahlian khusus.
 
 <div class="divider"></div>
 
