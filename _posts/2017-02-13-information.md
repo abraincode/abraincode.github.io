@@ -1,6 +1,6 @@
 ---
 title: Informasi
-updated: 2017-02-13 20:13
+updated: 2017-02-15 10:47
 ---
 
 Assalamualaikum Wr.Wb.
@@ -61,4 +61,4 @@ Jadwal Rutinitas pertemuan akan di ganti yang awalnya pada Hari Sabtu, akan diga
 
 Sebagai penutup, mari kita **kibarkan** bendera Indonesia dengan semangat kita (Pemuda-Pemudi Indonesia) melalui sektor Pendidikan dan Teknologi. Merdeka **Indonesia**, Merdeka dengan **Code**.
 
-Wassalam,
+Wassalamu'alaikum Wr. Wb
