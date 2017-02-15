@@ -47,7 +47,12 @@ Android & Web : [Daftar](https://goo.gl/forms/LmNwYrvf0t2zCfgv1)
 
 ##### Silabus Kegiatan
 
-`Akan di infokan di post berikutnya.`
+`Silabus Kegiatan akan di infokan di post berikutnya.`
+
+Fasilitator **aBraincode** :
+
+- Dhimas Akbar Noor Baihaque (Web)
+- Muh Isfahani Ghiyath (Android)
 
 ##### Program Kegiatan
 
@@ -61,4 +66,4 @@ Jadwal Rutinitas pertemuan akan di ganti yang awalnya pada Hari Sabtu, akan diga
 
 Sebagai penutup, mari kita **kibarkan** bendera Indonesia dengan semangat kita (Pemuda-Pemudi Indonesia) melalui sektor Pendidikan dan Teknologi. Merdeka **Indonesia**, Merdeka dengan **Code**.
 
-Wassalamu'alaikum Wr. Wb
+Wassalamu'alaikum Wr.Wb.
