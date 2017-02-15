@@ -15,7 +15,7 @@ Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda
 
 ### IT-Club Baru
 
-Setelah berdiskusi dengan kepanitiaan Inti dari aBraincode, aBraincode akan dipecah menjadi 2 bagian, yaitu :
+Setelah berdiskusi dengan [kepanitiaan Inti](https://abraincode.github.io/about) dari aBraincode, aBraincode akan dipecah menjadi 2 bagian, yaitu :
 
 - Android Developer
 - Web Developer
