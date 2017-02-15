@@ -10,4 +10,12 @@ Introduce, we are aBraincode. Our speciality is Web and Android Developer and al
 **Interesting?  <a href="#">join with us</a>!**
 `only for Nurul Fikri student();`
 
+The core team:
+
+- Muh Isfahani Ghiyath (Head)
+- Dhimas Akbar Noor Baihaque (Deputy Head)
+- Hardianti (Secretary)
+- Robiyatul Adawiyah (Treasurer)
+
+
 Enjoy!
