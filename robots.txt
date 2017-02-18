@@ -1,8 +1,5 @@
 ---
-layout: null
+title: robots
 ---
-
-sitemap: {{ site.baseurl | replace: 'https', 'http' | append: '/sitemap.xml' }}
-
-user-agent: EmailCollector
-disallow: /
+User-agent: *
+Sitemap: <{{site.url}}/sitemap.xml>
