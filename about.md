@@ -16,6 +16,7 @@ The core team:
 - Dhimas Akbar Noor Baihaque (Deputy Head)
 - Aufa Billah Putra Jazamah (Deputy Head)
 - Irvan Fathul Huda (Deputy Head)
+- Muhammad Abdul Karim (Deputy Head)
 - Hardianti (Secretary)
 - Robiyatul Adawiyah (Treasurer)
 
