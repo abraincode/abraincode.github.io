@@ -43,7 +43,7 @@ Upaya yang diharapkan dari rekonstruksi agar **aBraincode** secara terstruktur d
 
 Silahkan lakukan registrasi ulang untuk keanggotaan **aBraincode**
 
-Android & Web : [Daftar](https://goo.gl/forms/LmNwYrvf0t2zCfgv1)
+Android & Web : [Daftar](http://register.abraincode.id/)
 
 (Bisa pilih salah satu, atau keduanya).
 
