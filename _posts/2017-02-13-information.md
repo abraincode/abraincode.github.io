@@ -5,6 +5,8 @@ updated: 2017-02-15 10:47
 
 Assalamualaikum Warahmatullahi Wabarakatuh
 
+Bismillahirrahmanirrahim
+
 > Mohon dibaca dengan seksama, demi kemajuan kita bersama.
 
 ## Pembuka
