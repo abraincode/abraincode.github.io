@@ -71,8 +71,8 @@ Jadwal Rutinitas tetap:
 
 | Bidang        | Waktu           | Tempat  |
 | -------------------- |:-------------:| -----:|
-| Android Developer   | Senin, Pkl 15.30 WIB | B105 |
-| Web Developer      | Jum'at, Pkl 13.30 WIB      |   B105 |
+| Android Developer   | Segera | Segera |
+| Web Developer      | Segera      |   Segera |
 
 <div class="divider"></div>
 
