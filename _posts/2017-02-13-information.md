@@ -11,12 +11,12 @@ Bismillahirrahmanirrahim
 
 ## Pembuka
 
-Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda Indonesia terkhusus untuk kampus kita tercinta, yaitu STT Terpadu Nurul Fikri, pada post kali ini saya selaku Ketua **aBraincode** akan memaparkan sesuatu, yaitu akan dilakukan rekonstruksi manajemen secara efisien dan adapun akan dibuka IT-Club baru dibawah naungan aBraincode untuk keahlian khusus.
+Seiring berjalannya waktu, demi mewujudkan potensi positif dan potensi anak Muda Indonesia terkhusus untuk kampus kita tercinta, yaitu STT Terpadu Nurul Fikri, pada post kali ini saya selaku Ketua **aBraincode** akan memaparkan sesuatu, yaitu akan dilakukan rekonstruksi manajemen secara efisien dan adapun akan dibuka fokus bidang baru dibawah naungan aBraincode untuk keahlian khusus.
 
 <div class="divider"></div>
 
-### IT-Club Baru
-Setelah berdiskusi dengan [kepanitiaan Inti](https://abraincode.id/about) dari aBraincode, aBraincode akan dipecah menjadi 2 bagian, yaitu :
+### Semangat Baru
+Setelah berdiskusi dengan [kepanitiaan Inti](https://abraincode.id/about) dari aBraincode, aBraincode akan dibagi menjadi 2 fokus bidang utama, yaitu :
 
 - Android Developer
 - Web Developer
@@ -38,30 +38,41 @@ Upaya yang diharapkan dari rekonstruksi agar **aBraincode** secara terstruktur d
 - Program Kegiatan (Internal, dan Eksternal)
 - Jadwal Rutinitas
 
-##### Anggota **aBraincode**
+#### Anggota **aBraincode**
 
 Silahkan lakukan registrasi ulang untuk keanggotaan **aBraincode**
 
-Android & Web : [Daftar](https://register.abraincode.id/)
+Android & Web : [Daftar](http://bit.ly/registeraBc)
 
 (Bisa pilih salah satu, atau keduanya).
 
-##### Silabus Kegiatan
+#### Silabus Kegiatan
 
-`Silabus Kegiatan akan di infokan di post berikutnya.`
+Silabus Kegiatan aBraincode : [Android & Web](https://abraincode.id/notes/silabus)
 
-Fasilitator **aBraincode** :
+#### Fasilitator aBraincode :
 
-- Dhimas Akbar Noor Baihaque (Web)
-- Muh Isfahani Ghiyath (Android)
+Mahasiswa STT Nurul Fikri yang ingin ikut menjadi Agent of Change melalui Sektor Pendidikan Memerdekakan Indonesia melalui Code.
+**Pastikan bahwa kamu salah satunya! Bersedia?** [Ambil Peran!](#)
 
-##### Program Kegiatan
+#### Program Kegiatan
 
 `Akan di infokan di post berikutnya.`
 
-##### Jadwal Rutinitas
+#### Jadwal Kegiatan
 
-Jadwal Rutinitas pertemuan akan di ganti yang awalnya pada Hari Sabtu, akan diganti sesuai dengan jadwal anggota **aBraincode**. Akan disesuaikan setelah komparasi antara jadwal semester 2, semester 4, dan semester 6.
+Jadwal Rutinitas tentatif, tempat menyesuaikan :
+
+- Saung Kode
+- CodeMargonda
+- Digital Innovation Lounge,dll.
+
+Jadwal Rutinitas tetap:
+
+| Bidang        | Waktu           | Tempat  |
+| -------------------- |:-------------:| -----:|
+| Android Developer   | Senin, Pkl 15.30 WIB | B105 |
+| Web Developer      | Jum'at, Pkl 13.30 WIB      |   B105 |
 
 <div class="divider"></div>
 
