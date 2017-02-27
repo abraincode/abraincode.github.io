@@ -63,7 +63,7 @@ Mahasiswa STT Nurul Fikri yang ingin ikut menjadi Agent of Change melalui Sektor
 
 Jadwal Rutinitas tentatif, tempat menyesuaikan :
 
-- Saung Kode
+- Kebun Kode
 - CodeMargonda
 - Digital Innovation Lounge,dll.
 
