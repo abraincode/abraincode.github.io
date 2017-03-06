@@ -7,6 +7,8 @@ updated: 2017-02-23 08:07
 
 ## Batch 1
 
+### Level Beginner
+
 #### Description				
 PHP adalah bahasa pemrograman yang didesain untuk menciptakan halaman web interaktif maupun aplikasi berbasis web pada computer. Tidak seperi HTML, dimana web browser menggunakan tag dan markup untuk menciptakan sebuah page, tapi PHP code berjalan diantara halaman yang direquest dan web server, dan merubah code PHP kedalam output HTML dasar.																		
 
@@ -37,9 +39,17 @@ Mampu Mengoperasikan Komputer
 |     9     |       PHP MySQL       |     Aufa    |
 |     10    |       PHP MySQL       |     Aufa    |
 
+#### Final Result
+
+<p style="text-align: center;"> Create awesome App with PHP & MySQL </p>
+
+![Final](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG)
+
 <div class="divider"></div>
 
 ## Batch 2
+
+### Level Intermediate
 
 #### Description
 Laravel merupakan framework PHP yang dirancang untuk membangun situs web dengan teknik pengembangan yang mudah dipahami karena mengikuti pola MVC (Model View Controller).														
@@ -63,6 +73,12 @@ PHP Fundamental
 |     18    | Deploying, Optimizing and Maintaining Application             |    Dhimas   |
 |     19    | Creating a Restricted Administration Console                  |    Dhimas   |
 |     20    | Introducing Lumen & Events                                    |    Dhimas   |
+
+#### Final Result
+
+<p style="text-align: center;"> Create awesome App with PHP & MySQL </p>
+
+![Final](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG)
 
 <div class="divider"></div>
 
