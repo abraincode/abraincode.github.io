@@ -12,14 +12,14 @@ Introduce, we are aBraincode Indonesia. Our speciality is Web and Android Develo
 
 The core team:
 
-- Muh Isfahani Ghiyath (Head)
-- Herpiko Dwi Aguno (Deputy Head)
-- Dhimas Akbar Noor Baihaque (Deputy Head)
-- Aufa Billah Putra Jazamah (Deputy Head)
-- Irvan Fathul Huda (Deputy Head)
-- Muhammad Abdul Karim (Deputy Head)
-- Hardianti (Secretary)
-- Robiyatul Adawiyah (Treasurer)
+- [Muh Isfahani Ghiyath](https://github.com/isfaaghyth) (Head)
+- [Herpiko Dwi Aguno](https://github.com/herpiko) (Deputy Head)
+- [Dhimas Akbar Noor Baihaque](https://github.com/dhimasanb) (Deputy Head)
+- [Aufa Billah Putra Jazamah](https://github.com/aufaroot18) (Deputy Head)
+- [Irvan Fathul Huda](https://github.com/shifter27) (Deputy Head)
+- [Muhammad Abdul Karim](https://github.com/setakarim) (Deputy Head)
+- [Hardianti](https://github.com/hardiantiflash) (Secretary)
+- [Robiyatul Adawiyah](https://github.com/arobiyatul) (Treasurer)
 
 
 Enjoy!
