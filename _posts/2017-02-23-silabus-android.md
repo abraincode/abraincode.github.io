@@ -29,18 +29,18 @@ Mampu Mengoperasikan Komputer
 
 #### Schedule
 
-| Pertemuan |         Materi        | Fasilitator |
-|:---------:|:---------------------:|:-----------:|
-|     1     |          Git          |    Dhimas   |
-|     2     |          Git          |    Dhimas   |
-|     3     | HTML, CSS, JavaScript |    Dhimas   |
-|     4     |       PHP Fundamental |     Aufa    |
-|     5     |       PHP Fundamental |     Aufa    |
-|     6     |       PHP Functions   |     Aufa    |
-|     7     |        OOP PHP        |     Aufa    |
-|     8     |        OOP PHP        |     Aufa    |
-|     9     |       PHP MySQL       |     Aufa    |
-|     10    |       PHP MySQL       |     Aufa    |
+| Pertemuan |         Materi        |
+|:---------:|:---------------------:|
+|     1     | Git                   |
+|     2     | Git                   |
+|     3     | HTML, CSS, JavaScript |
+|     4     | PHP Fundamental       |
+|     5     | PHP Fundamental       |
+|     6     | PHP Function          |
+|     7     | OOP PHP               |
+|     8     | OOP PHP               |
+|     9     | PHP MySQL             |
+|     10    | PHP MySQL             |
 
 #### Final Result
 
@@ -64,18 +64,18 @@ PHP Fundamental
 
 #### Schedule											
 
-| Pertemuan |                             Materi                            | Fasilitator |
-|:---------:|:-------------------------------------------------------------:|:-----------:|
-|     11    | MVC Design Pattern & Introducing to Laravel                   |    Dhimas   |
-|     12    | Managing Project Controllers, Layout, Views, and Other Assets |    Dhimas   |
-|     13    | Introducing Laravel Models                                    |    Dhimas   |
-|     14    | Model Relations, Scopes, and Other Advanced Features          |    Dhimas   |
-|     15    | Integrating Web Forms                                         |    Dhimas   |
-|     16    | Introducing Middleware                                        |    Dhimas   |
-|     17    | Authenticating and Managing Users                             |    Dhimas   |
-|     18    | Deploying, Optimizing and Maintaining Application             |    Dhimas   |
-|     19    | Creating a Restricted Administration Console                  |    Dhimas   |
-|     20    | Introducing Lumen & Events                                    |    Dhimas   |
+| Pertemuan |                             Materi                            |
+|:---------:|:-------------------------------------------------------------:|
+|     11    | MVC Software Design Pattern & Introducing to Laravel          |
+|     12    | Managing Project Controllers, Layout, Views, and Other Assets |
+|     13    | Introducing Laravel Models                                    |
+|     14    | Model Relations, Scopes, and Other Advanced Features          |
+|     15    | Integrating Web Forms                                         |
+|     16    | Introducing Middleware                                        |
+|     17    | Authenticating and Managing Users                             |
+|     18    | Deploying, Optimizing and Maintaining Application             |
+|     19    | Creating a Restricted Administration Console                  |
+|     20    | Introducing Lumen & Events                                    |
 
 #### Final Result
 
