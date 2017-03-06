@@ -1,9 +1,9 @@
 ---
-title: Silabus Web
+title: Silabus Android
 updated: 2017-02-23 08:07
 ---
 
-<h1 style="text-align: center;"> Web Development </h1>
+<h1 style="text-align: center;"> Android Development </h1>
 
 ## Introduction
 
