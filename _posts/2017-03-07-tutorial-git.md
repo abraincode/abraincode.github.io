@@ -16,7 +16,7 @@ Pada artikel ini, kita akan mengulas secara singkat perintah-perintah yang serin
 * HEAD : head yang sedang aktif
 * merge : menggabungkan lebih dari satu commit
 
-## Membuat Repository
+## Create Repository
 
 Untuk bisa mulai bekerja, kita harus memiliki repository dulu. Ada dua kemungkinan, kita membuat repository baru, atau kita membuat clone dari repository yang sudah ada.
 
@@ -37,39 +37,39 @@ http://server/path/ke/repo : clone melalui protokol http
 
 username@server:path/ke/repo : clone melalui protokol ssh
 
-## Bekerja dengan Git
+## Work using Git
 
 Berikut ini adalah perintah yang dilakukan selama sesi coding.
 
-| Keterangan                                                                                                       | Perintah                                                                                               |               |
-|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------|
-| Menambah file baru                                                                                               | git add namafile                                                                                       |               |
-| Menghapus file                                                                                                   | git rm namafile                                                                                        |               |
-| Memasukkan perubahan di satu file ke staging area                                                                | git add namafile                                                                                       |               |
-| memasukkan semua perubahan                                                                                       | git add .                                                                                              |               |
-| memilih potongan kode yang akan dimasukkan                                                                       | git add -p                                                                                             |               |
-| memasukkan perubahan ke staging menggunakan menu                                                                 | git add -i                                                                                             |               |
-| melihat status perubahan file, mana yang masih di working dan mana yang sudah di staging                         | git status                                                                                             |               |
-| mengeluarkan perubahan dari staging area                                                                         | git reset – namafile                                                                                   |               |
-| melihat perubahan yang belum dimasukkan ke staging area                                                          | git diff                                                                                               |               |
-| melihat perubahan yang akan dicommit (sudah ada di staging area)                                                 | git diff –staged                                                                                       |               |
-| melihat perubahan antara working folder dan commit terakhir                                                      | git diff HEAD                                                                                          |               |
-| melihat file mana saja yang berubah                                                                              | git diff –name-status abc123..def456                                                                   |               |
-| melakukan commit, editor akan diaktifkan untuk mengisi keterangan                                                | git commit                                                                                             |               |
-| melakukan commit, langsung mengisi keterangan                                                                    | git commit -m “langsung isi keterangan di sini” commit langsung semua perubahan, tanpa melalui staging | git commit -a |
-| melihat commit history                                                                                           | git log                                                                                                |               |
-| log lima commit terakhir                                                                                         | git log -5                                                                                             |               |
-| log hanya menampilkan summary                                                                                    | git log –oneline                                                                                       |               |
-| tampilkan commit summary dari semua branch dengan graph hubungan antar commit                                    | git log –oneline –all –graph                                                                           |               |
-| membuat commit baru yang berkebalikan dengan (undo) commit terakhir                                              | git revert HEAD undo                                                                                   |               |
-| 2 commit terakhir                                                                                                | git revert HEAD~2                                                                                      |               |
-| memindahkan HEAD ke commit-id yang diminta, staging disamakan dengan HEAD, working tetap seperti semula.         |                                                                                                        |               |
-| Ini adalah opsi defaultnya reset                                                                                 | git reset –mixed                                                                                       |               |
-| memindahkan HEAD ke commit-id yang diminta, isi working dan staging disamakan dengan commit-id tersebut          | git reset –hard commit-id                                                                              |               |
-| memindahkan HEAD ke commit-id yang diminta, staging dan working tidak disentuh. Tidak mengubah output git status | git reset –soft                                                                                        |               |
-| membuat working dan staging sama dengan HEAD                                                                     | git reset –hard                                                                                        |               |
+| Keterangan                                                                                                       | Perintah                                                                                               |
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Menambah file baru                                                                                               | git add namafile                                                                                       |
+| Menghapus file                                                                                                   | git rm namafile                                                                                        |
+| Memasukkan perubahan di satu file ke staging area                                                                | git add namafile                                                                                       |
+| memasukkan semua perubahan                                                                                       | git add .                                                                                              |
+| memilih potongan kode yang akan dimasukkan                                                                       | git add -p                                                                                             |
+| memasukkan perubahan ke staging menggunakan menu                                                                 | git add -i                                                                                             |
+| melihat status perubahan file, mana yang masih di working dan mana yang sudah di staging                         | git status                                                                                             |
+| mengeluarkan perubahan dari staging area                                                                         | git reset – namafile                                                                                   |
+| melihat perubahan yang belum dimasukkan ke staging area                                                          | git diff                                                                                               |
+| melihat perubahan yang akan dicommit (sudah ada di staging area)                                                 | git diff –staged                                                                                       |
+| melihat perubahan antara working folder dan commit terakhir                                                      | git diff HEAD                                                                                          |
+| melihat file mana saja yang berubah                                                                              | git diff –name-status abc123..def456                                                                   |
+| melakukan commit, editor akan diaktifkan untuk mengisi keterangan                                                | git commit                                                                                             |
+| melakukan commit, langsung mengisi keterangan                                                                    | git commit -m “langsung isi keterangan di sini” commit langsung semua perubahan, tanpa melalui staging |
+| melihat commit history                                                                                           | git log                                                                                                |
+| log lima commit terakhir                                                                                         | git log -5                                                                                             |
+| log hanya menampilkan summary                                                                                    | git log –oneline                                                                                       |
+| tampilkan commit summary dari semua branch dengan graph hubungan antar commit                                    | git log –oneline –all –graph                                                                           |
+| membuat commit baru yang berkebalikan dengan (undo) commit terakhir                                              | git revert HEAD undo                                                                                   |
+| 2 commit terakhir                                                                                                | git revert HEAD~2                                                                                      |
+| memindahkan HEAD ke commit-id yang diminta, staging disamakan dengan HEAD, working tetap seperti semula.         |                                                                                                        |
+| Ini adalah opsi defaultnya reset                                                                                 | git reset –mixed                                                                                       |
+| memindahkan HEAD ke commit-id yang diminta, isi working dan staging disamakan dengan commit-id tersebut          | git reset –hard commit-id                                                                              |
+| memindahkan HEAD ke commit-id yang diminta, staging dan working tidak disentuh. Tidak mengubah output git status | git reset –soft                                                                                        |
+| membuat working dan staging sama dengan HEAD                                                                     | git reset –hard                                                                                        |
 
-## Bekerja paralel menggunakan branch
+## Working Parallel using Branch
 
 Branch memungkinkan kita bekerja secara paralel, misalnya ada tim yang menambah fitur, dan ada tim yang melakukan bug fix.
 
@@ -89,7 +89,7 @@ Branch memungkinkan kita bekerja secara paralel, misalnya ada tim yang menambah 
 | \- remove markernya                                       | git commit -m "merge fitur-xxx ke master" |  
 | membatalkan merge yang konflik                            | git reset –hard                           |  
 
-## Bekerja dengan remote
+## Work with Remote
 
 Interaksi dengan remote repository
 
@@ -111,7 +111,7 @@ Interaksi dengan remote repository
 
 Demikianlah perintah-perintah Git yang kita gunakan sehari-hari. Melengkapi daftar perintah di atas, diagram berikut dapat membantu pemahaman kita tentang konsep dan operasi di Git.
 
-![ ][1]
+## References
 
 [1]: http://software.endy.muhardin.com/images/uploads/2011/01/git-300x284.png
 [Sumber](http://software.endy.muhardin.com/aplikasi/pemakaian-git-sehari-hari/ "Permalink to Pemakaian Git sehari-hari · Living life and Make it Better")
