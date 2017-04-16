@@ -5,88 +5,103 @@ updated: 2017-02-23 08:07
 
 <h1 style="text-align: center;"> Android Development </h1>
 
-## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-## Batch 1
+### Beginner
 
-### Level Beginner
+`SYARAT:Pemrograman Java, dan Object Oriented Programming.`
+- [x] Pengantar Android
+  - [x] Pengantar sistem operasi Android and pemrograman
+  - [x] Persiapan Lingkungan Kerja
+    - [x] Pengenalan IDE (_integrated development environment_) yang digunakan
+    - [x] Instalasi di 3 sistem operasi yang berbeda
+    - [x] Pengenalan dan Instalasi _tools_ pihak ketiga
+  - [x] Pengantar Bahasa pemrograman yang digunakan
+  - [x] Pengenalan _tools_ yang digunakan
+  - [x] Persiapan Emulator dan Device Debugging
+- [x] Persiapan _Computer Vision_ yang digunakan
+  - [x] Pengenalan _Computer Vision_
+  - [x] Pengantar penggunaan _Computer Vision_
+  - [x] Contoh Implementasi _Computer Vision_
+- [x] Let's Start
+  - [x] Pengenalan Android
+    - [x] Pengenalan Struktur _package_ dan _directory_ Android Studio
+    - [x] Pengenalan Aristektur Android
+    - [x] Pengenalan Android _Accessing_ dan _Organizing_
+    - [x] Pengenalan dan _Life cycle_ Activity dan Fragment Android
+    - [x] Pengenalan dan _Life cycle_ Service dan Broadcast Receivers Android
+    - [x] *Contoh Project _Hello World_ sederhana
+  - [x] Antarmuka Android
+    - [x] Pengenalan XML
+    - [x] Pengenalan dan Pengaturan UI Layout
+      - [x] Linearlayout
+      - [x] Relativelayout
+      - [x] Framelayout
+      - [x] Constraintlayout
+    - [x] Pengelolaan Component Controls
+      - [x] Pengenalan
+        - [x] Recyclerview
+        - [x] Cardview
+        - [x] Textview
+        - [x] Edittext
+        - [x] more . . .
+      - [x] Pengenalan View Injection
+    - [x] Implementasi Component Event Handling
+    - [x] Gaya dan Tema Aplikasi
+    - [x] Kustomisasi Komponen
+    - [x] *Contoh Project _Login & Logout_ sederhana
+  - [ ] Pengenalan dan Implementasi Komponen
+    - [ ] Notification
+    - [ ] Alert Dialoges
+    - [ ] Camera dan Gallery
+    - [ ] Internet Request
+    - [ ] GPS Location
+    - [ ] Runtime Permission
+  - [ ] Data Penyimpanan
+    - [ ] Pengantar Database
+    - [ ] Macam-macam Database
+      - [ ] (SQL) SQLite
+      - [ ] (NoSQL) Realm
+      - [ ] SharedPreferences
+    - [ ] *Contoh Implementasi Sederhana Database
+  - [ ] **Final Project**
+    - Aplikasi Catatan (Note App) dilengkapi autentikasi user login dan menggunakan Realm.
+  
 
-#### Description				
-PHP adalah bahasa pemrograman yang didesain untuk menciptakan halaman web interaktif maupun aplikasi berbasis web pada computer. Tidak seperi HTML, dimana web browser menggunakan tag dan markup untuk menciptakan sebuah page, tapi PHP code berjalan diantara halaman yang direquest dan web server, dan merubah code PHP kedalam output HTML dasar.																		
 
-Pada training ini, peserta akan belajar mengenai sintaks dan functions yang ada pada bahasa pembrograman PHP dan juga belajar mengenai database MySql, sehingga setelah mengikuti training ini, peserta mampu membuat website sederhana yang interaktif.
+### Intermediate
 
-#### Objective				
-- Menguasai syntax-syntax PHP basic.				
-- Mampu membuat inteface web seerhana dengan HTML.				
-- Menguasai Structure Query Language (SQL) pada database MySQL.				
-- Mampu membuat web sederhana yang dinamis.				
-- Mampu membuat aplikasi sederhana berbasis web.				
+`SYARAT:Pemrograman Java, dan Object Oriented Programming, pemrograman PHP menengah.`
 
-#### System Requirements
-Mampu Mengoperasikan Komputer
+Secara garis besar, di buku ini akan membahas hal-hal berikut:
+- [ ] Android Pattern
+  - [ ] MVP beserta contoh implementasi
+  - [ ] MVVM beserta contoh implementasi
+  - [ ] *_Refactoring_ project menggunakan arsitektur MVP
+- [ ] ReactiveX Pattern
+- [ ] Network Communication
+    - [ ] Server Interactive
+      - [ ] Pengenalan API dan _Life cycle_ network communicator
+      - [ ] Membuat web services sederhana
+    - [ ] Client Request
+      - [ ] Retrofit dan okhttp
+      - [ ] Volley
+      - [ ] Object Parsing
+        - [ ] Jackson
+        - [ ] Gson
+- [ ] Connection and Data Handling
+- [ ] Dependency Injection
+- [ ] Pengenalan Cloud Services
+  - [ ] Pengenalan Firebase
+  - [ ] Crash Reporting
+  - [ ] *Contoh impelemntasi sederhana
+- [ ] Pengenalan dan contoh implementasi TTD
+  - [ ] Junit4
+  - [ ] Espresso
+  - [ ] Mockito
+- [ ] Membuat Library sederhana
+- [ ] **Final Project**
+  - Movie app menggunakan API dari [themoviedb.org](themoviedb.org) dengan kriteria sebagai berikut:
+    - Menggunakan MVP Pattern
+    - Implementasi Rx architecture
+    - Menggunakan Retrofit dan gson
 
-#### Schedule
-
-| Pertemuan |         Materi        |
-|:---------:|:---------------------:|
-|     1     | Git                   |
-|     2     | Git                   |
-|     3     | HTML, CSS, JavaScript |
-|     4     | PHP Fundamental       |
-|     5     | PHP Fundamental       |
-|     6     | PHP Function          |
-|     7     | OOP PHP               |
-|     8     | OOP PHP               |
-|     9     | PHP MySQL             |
-|     10    | PHP MySQL             |
-
-#### Final Result
-
-<p style="text-align: center;"> Create awesome App with PHP & MySQL </p>
-
-![Final](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG)
-
-<div class="divider"></div>
-
-## Batch 2
-
-### Level Intermediate
-
-#### Description
-Laravel merupakan framework PHP yang dirancang untuk membangun situs web dengan teknik pengembangan yang mudah dipahami karena mengikuti pola MVC (Model View Controller).														
-
-Pada training ini diharapkan mampu membantu meningkatkan kemampuan dan kinerja peserta dalam memperbaharui dan membangun website yang lebih mudah dan cepat, serta memiliki kinerja akses yang cepat.														
-
-#### System Requirements
-PHP Fundamental
-
-#### Schedule											
-
-| Pertemuan |                             Materi                            |
-|:---------:|:-------------------------------------------------------------:|
-|     11    | MVC Software Design Pattern & Introducing to Laravel          |
-|     12    | Managing Project Controllers, Layout, Views, and Other Assets |
-|     13    | Introducing Laravel Models                                    |
-|     14    | Model Relations, Scopes, and Other Advanced Features          |
-|     15    | Integrating Web Forms                                         |
-|     16    | Introducing Middleware                                        |
-|     17    | Authenticating and Managing Users                             |
-|     18    | Deploying, Optimizing and Maintaining Application             |
-|     19    | Creating a Restricted Administration Console                  |
-|     20    | Introducing Lumen & Events                                    |
-
-#### Final Result
-
-<p style="text-align: center;"> Create awesome App with PHP & MySQL </p>
-
-![Final](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG)
-
-<div class="divider"></div>
-
-## References
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [CSS](https://www.w3schools.com/css/default.asp)
-- [JavaScript](https://www.w3schools.com/js/default.asp)
-- [PHP](https://www.w3schools.com/php/)
