@@ -9,46 +9,46 @@ updated: 2017-02-23 08:07
 ### Beginner
 
 `SYARAT:Pemrograman Java, dan Object Oriented Programming.`
-- [x] Pengantar Android
-  - [x] Pengantar sistem operasi Android and pemrograman
-  - [x] Persiapan Lingkungan Kerja
-    - [x] Pengenalan IDE (_integrated development environment_) yang digunakan
-    - [x] Instalasi di 3 sistem operasi yang berbeda
-    - [x] Pengenalan dan Instalasi _tools_ pihak ketiga
-  - [x] Pengantar Bahasa pemrograman yang digunakan
-  - [x] Pengenalan _tools_ yang digunakan
-  - [x] Persiapan Emulator dan Device Debugging
-- [x] Persiapan _Computer Vision_ yang digunakan
-  - [x] Pengenalan _Computer Vision_
-  - [x] Pengantar penggunaan _Computer Vision_
-  - [x] Contoh Implementasi _Computer Vision_
-- [x] Let's Start
-  - [x] Pengenalan Android
-    - [x] Pengenalan Struktur _package_ dan _directory_ Android Studio
-    - [x] Pengenalan Aristektur Android
-    - [x] Pengenalan Android _Accessing_ dan _Organizing_
-    - [x] Pengenalan dan _Life cycle_ Activity dan Fragment Android
-    - [x] Pengenalan dan _Life cycle_ Service dan Broadcast Receivers Android
-    - [x] *Contoh Project _Hello World_ sederhana
-  - [x] Antarmuka Android
-    - [x] Pengenalan XML
-    - [x] Pengenalan dan Pengaturan UI Layout
-      - [x] Linearlayout
-      - [x] Relativelayout
-      - [x] Framelayout
-      - [x] Constraintlayout
-    - [x] Pengelolaan Component Controls
-      - [x] Pengenalan
-        - [x] Recyclerview
-        - [x] Cardview
-        - [x] Textview
-        - [x] Edittext
-        - [x] more . . .
-      - [x] Pengenalan View Injection
-    - [x] Implementasi Component Event Handling
-    - [x] Gaya dan Tema Aplikasi
-    - [x] Kustomisasi Komponen
-    - [x] *Contoh Project _Login & Logout_ sederhana
+- [ ] Pengantar Android
+  - [ ] Pengantar sistem operasi Android and pemrograman
+  - [ ] Persiapan Lingkungan Kerja
+    - [ ] Pengenalan IDE (_integrated development environment_) yang digunakan
+    - [ ] Instalasi di 3 sistem operasi yang berbeda
+    - [ ] Pengenalan dan Instalasi _tools_ pihak ketiga
+  - [ ] Pengantar Bahasa pemrograman yang digunakan
+  - [ ] Pengenalan _tools_ yang digunakan
+  - [ ] Persiapan Emulator dan Device Debugging
+- [ ] Persiapan _Computer Vision_ yang digunakan
+  - [ ] Pengenalan _Computer Vision_
+  - [ ] Pengantar penggunaan _Computer Vision_
+  - [ ] Contoh Implementasi _Computer Vision_
+- [ ] Let's Start
+  - [ ] Pengenalan Android
+    - [ ] Pengenalan Struktur _package_ dan _directory_ Android Studio
+    - [ ] Pengenalan Aristektur Android
+    - [ ] Pengenalan Android _Accessing_ dan _Organizing_
+    - [ ] Pengenalan dan _Life cycle_ Activity dan Fragment Android
+    - [ ] Pengenalan dan _Life cycle_ Service dan Broadcast Receivers Android
+    - [ ] *Contoh Project _Hello World_ sederhana
+  - [ ] Antarmuka Android
+    - [ ] Pengenalan XML
+    - [ ] Pengenalan dan Pengaturan UI Layout
+      - [ ] Linearlayout
+      - [ ] Relativelayout
+      - [ ] Framelayout
+      - [ ] Constraintlayout
+    - [ ] Pengelolaan Component Controls
+      - [ ] Pengenalan
+        - [ ] Recyclerview
+        - [ ] Cardview
+        - [ ] Textview
+        - [ ] Edittext
+        - [ ] more . . .
+      - [ ] Pengenalan View Injection
+    - [ ] Implementasi Component Event Handling
+    - [ ] Gaya dan Tema Aplikasi
+    - [ ] Kustomisasi Komponen
+    - [ ] *Contoh Project _Login & Logout_ sederhana
   - [ ] Pengenalan dan Implementasi Komponen
     - [ ] Notification
     - [ ] Alert Dialoges
