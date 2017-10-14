@@ -12,7 +12,7 @@ Introduce, we are aBraincode Indonesia. Our speciality is Web and Android Develo
 
 The core team:
 
-- [Muh Isfahani Ghiyath](https://github.com/isfaaghyth) (Head)
+- [Muh Isfhani Ghiath](https://github.com/isfaaghyth) (Head)
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Deputy Head)
 - [Dhimas Akbar Noor Baihaque](https://github.com/dhimasanb) (Deputy Head)
 - [Aufa Billah Putra Jazamah](https://github.com/aufaroot18) (Deputy Head)
