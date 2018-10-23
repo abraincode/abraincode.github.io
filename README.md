@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>Android and Web Developer Club</h2>
-<h4>https://abraincode.id/</h4>
+<h4>https://abraincode.github.io/</h4>
 </div>
 
 # About aBraincode
